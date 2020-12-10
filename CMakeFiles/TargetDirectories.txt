@@ -1,0 +1,3 @@
+/home/chitii/Desktop/SoftwareFungeon/UnitTestDemonstration/CMakeFiles/rebuild_cache.dir
+/home/chitii/Desktop/SoftwareFungeon/UnitTestDemonstration/CMakeFiles/edit_cache.dir
+/home/chitii/Desktop/SoftwareFungeon/UnitTestDemonstration/CMakeFiles/runTests.dir
