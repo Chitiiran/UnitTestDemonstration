@@ -6,13 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/home/chitii/Desktop/SoftwareFungeon/UnitTestDemonstration/tests.cpp
-whattotest.cpp
-/home/chitii/Desktop/SoftwareFungeon/UnitTestDemonstration/whattotest.cpp
-gtest/gtest.h
+/home/chitii/Desktop/SoftwareFungeon/UnitTestDemonstration/baseCode.cpp
+functional
+-
+vector
 -
 
-/home/chitii/Desktop/SoftwareFungeon/UnitTestDemonstration/whattotest.cpp
-math.h
+/home/chitii/Desktop/SoftwareFungeon/UnitTestDemonstration/searchAlgorithmTests.cpp
+baseCode.cpp
+/home/chitii/Desktop/SoftwareFungeon/UnitTestDemonstration/baseCode.cpp
+gtest/gtest.h
+-
+iostream
 -
 

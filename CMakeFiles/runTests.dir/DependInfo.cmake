@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/chitii/Desktop/SoftwareFungeon/UnitTestDemonstration/tests.cpp" "/home/chitii/Desktop/SoftwareFungeon/UnitTestDemonstration/CMakeFiles/runTests.dir/tests.cpp.o"
+  "/home/chitii/Desktop/SoftwareFungeon/UnitTestDemonstration/searchAlgorithmTests.cpp" "/home/chitii/Desktop/SoftwareFungeon/UnitTestDemonstration/CMakeFiles/runTests.dir/searchAlgorithmTests.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

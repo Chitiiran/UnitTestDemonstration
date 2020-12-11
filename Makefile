@@ -123,32 +123,32 @@ runTests/fast:
 	$(MAKE) -f CMakeFiles/runTests.dir/build.make CMakeFiles/runTests.dir/build
 .PHONY : runTests/fast
 
-tests.o: tests.cpp.o
+searchAlgorithmTests.o: searchAlgorithmTests.cpp.o
 
-.PHONY : tests.o
+.PHONY : searchAlgorithmTests.o
 
 # target to build an object file
-tests.cpp.o:
-	$(MAKE) -f CMakeFiles/runTests.dir/build.make CMakeFiles/runTests.dir/tests.cpp.o
-.PHONY : tests.cpp.o
+searchAlgorithmTests.cpp.o:
+	$(MAKE) -f CMakeFiles/runTests.dir/build.make CMakeFiles/runTests.dir/searchAlgorithmTests.cpp.o
+.PHONY : searchAlgorithmTests.cpp.o
 
-tests.i: tests.cpp.i
+searchAlgorithmTests.i: searchAlgorithmTests.cpp.i
 
-.PHONY : tests.i
+.PHONY : searchAlgorithmTests.i
 
 # target to preprocess a source file
-tests.cpp.i:
-	$(MAKE) -f CMakeFiles/runTests.dir/build.make CMakeFiles/runTests.dir/tests.cpp.i
-.PHONY : tests.cpp.i
+searchAlgorithmTests.cpp.i:
+	$(MAKE) -f CMakeFiles/runTests.dir/build.make CMakeFiles/runTests.dir/searchAlgorithmTests.cpp.i
+.PHONY : searchAlgorithmTests.cpp.i
 
-tests.s: tests.cpp.s
+searchAlgorithmTests.s: searchAlgorithmTests.cpp.s
 
-.PHONY : tests.s
+.PHONY : searchAlgorithmTests.s
 
 # target to generate assembly for a file
-tests.cpp.s:
-	$(MAKE) -f CMakeFiles/runTests.dir/build.make CMakeFiles/runTests.dir/tests.cpp.s
-.PHONY : tests.cpp.s
+searchAlgorithmTests.cpp.s:
+	$(MAKE) -f CMakeFiles/runTests.dir/build.make CMakeFiles/runTests.dir/searchAlgorithmTests.cpp.s
+.PHONY : searchAlgorithmTests.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... runTests"
-	@echo "... tests.o"
-	@echo "... tests.i"
-	@echo "... tests.s"
+	@echo "... searchAlgorithmTests.o"
+	@echo "... searchAlgorithmTests.i"
+	@echo "... searchAlgorithmTests.s"
 .PHONY : help
 
 
